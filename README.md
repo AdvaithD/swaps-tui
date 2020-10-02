@@ -2,6 +2,9 @@
 
 see https://twitter.com/EdgarArout/status/1311908759250370560 for a gif of what it looks like
 
+<video src="https://video.twimg.com/tweet_video/EjTVnChWAAAq6oB.mp4" preload="auto" playsinline="" type="video/mp4">
+</video>
+
 The bar charts show the value of the trade in eth
 
 press `h` for the help,
