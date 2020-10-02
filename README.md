@@ -1,5 +1,9 @@
 # see uniswap pending swaps in the txn pool!
 
+see https://twitter.com/EdgarArout/status/1311908759250370560 for a gif of what it looks like
+
+The bar charts show the value of the trade in eth
+
 press `h` for the help,
 
 to start it, you'll need to connect with an endpoint, either IPC or websocket
